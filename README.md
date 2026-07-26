@@ -1,6 +1,6 @@
 <div align="center">
 
-<h3><code>$ whoami --verbose</code></h3>
+<h3><code> palash@github ~ $whoami </code></h3>
 
 <table>
   <tr>
