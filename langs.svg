@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 300" font-family="ui-monospace,Menlo,Consolas,monospace">
+<defs><style>@keyframes app{from{opacity:0}to{opacity:1}}@keyframes d0{from{stroke-dashoffset:259.4}to{stroke-dashoffset:0}}.d0{animation:d0 .7s ease 0.20s both}@keyframes d1{from{stroke-dashoffset:152.0}to{stroke-dashoffset:0}}.d1{animation:d1 .7s ease 0.36s both}@keyframes d2{from{stroke-dashoffset:26.0}to{stroke-dashoffset:0}}.d2{animation:d2 .7s ease 0.52s both}@keyframes d3{from{stroke-dashoffset:25.6}to{stroke-dashoffset:0}}.d3{animation:d3 .7s ease 0.68s both}@keyframes d4{from{stroke-dashoffset:1.4}to{stroke-dashoffset:0}}.d4{animation:d4 .7s ease 0.84s both} .lg{animation:app .5s ease both}</style><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0b0f17"/><stop offset="1" stop-color="#0d1117"/></linearGradient></defs>
+<rect x="1" y="1" width="438" height="298" rx="14" fill="url(#bg)" stroke="#222b35"/>
+<path d="M1 15 Q1 1 15 1 H425 Q439 1 439 15 V42 H1 Z" fill="#161b22"/>
+<circle cx="22" cy="21" r="5.5" fill="#ff5f56"/>
+<circle cx="42" cy="21" r="5.5" fill="#ffbd2e"/>
+<circle cx="62" cy="21" r="5.5" fill="#27c93f"/>
+<text x="220.0" y="26" fill="#8b949e" font-size="13" text-anchor="middle">$ gh languages --top</text>
+<path class="d0" d="M 112.0 98.0 A 74 74 0 1 1 85.6 241.1" fill="none" stroke="#39d3c3" stroke-width="26" stroke-dasharray="259.4" stroke-dashoffset="0"/>
+<path class="d1" d="M 85.6 241.1 A 74 74 0 0 1 63.1 116.5" fill="none" stroke="#4db3ff" stroke-width="26" stroke-dasharray="152.0" stroke-dashoffset="0"/>
+<path class="d2" d="M 63.1 116.5 A 74 74 0 0 1 85.2 103.0" fill="none" stroke="#5ad1a0" stroke-width="26" stroke-dasharray="26.0" stroke-dashoffset="0"/>
+<path class="d3" d="M 85.2 103.0 A 74 74 0 0 1 110.1 98.0" fill="none" stroke="#8f9bf0" stroke-width="26" stroke-dasharray="25.6" stroke-dashoffset="0"/>
+<path class="d4" d="M 110.1 98.0 A 74 74 0 0 1 111.5 98.0" fill="none" stroke="#3fb6ae" stroke-width="26" stroke-dasharray="1.4" stroke-dashoffset="0"/>
+<text x="112" y="177" fill="#e6edf3" font-size="17" font-weight="bold" text-anchor="middle">TOP 5</text>
+<g class="lg" style="animation-delay:0.40s"><rect x="230" y="81" width="12" height="12" rx="3" fill="#39d3c3"/><text x="250" y="92" fill="#e6edf3" font-size="13.5">Python</text><text x="416" y="92" fill="#8b949e" font-size="13.5" text-anchor="end">55.8%</text></g>
+<g class="lg" style="animation-delay:0.52s"><rect x="230" y="114" width="12" height="12" rx="3" fill="#4db3ff"/><text x="250" y="125" fill="#e6edf3" font-size="13.5">JavaScript</text><text x="416" y="125" fill="#8b949e" font-size="13.5" text-anchor="end">32.7%</text></g>
+<g class="lg" style="animation-delay:0.64s"><rect x="230" y="147" width="12" height="12" rx="3" fill="#5ad1a0"/><text x="250" y="158" fill="#e6edf3" font-size="13.5">CSS</text><text x="416" y="158" fill="#8b949e" font-size="13.5" text-anchor="end">5.6%</text></g>
+<g class="lg" style="animation-delay:0.76s"><rect x="230" y="180" width="12" height="12" rx="3" fill="#8f9bf0"/><text x="250" y="191" fill="#e6edf3" font-size="13.5">HTML</text><text x="416" y="191" fill="#8b949e" font-size="13.5" text-anchor="end">5.5%</text></g>
+<g class="lg" style="animation-delay:0.88s"><rect x="230" y="213" width="12" height="12" rx="3" fill="#3fb6ae"/><text x="250" y="224" fill="#e6edf3" font-size="13.5">Prolog</text><text x="416" y="224" fill="#8b949e" font-size="13.5" text-anchor="end">0.3%</text></g>
+</svg>

@@ -1,12 +1,12 @@
-name: Refresh contribution graph
+name: Refresh profile data
 
 on:
   schedule:
-    - cron: "0 5 * * *"      # once a day, ~05:00 UTC
-  workflow_dispatch: {}       # lets you run it manually from the Actions tab
+    - cron: "0 5 * * *"
+  workflow_dispatch: {}
 
 permissions:
-  contents: write             # allows the job to commit the updated graph
+  contents: write
 
 jobs:
   refresh:
@@ -18,8 +18,15 @@ jobs:
           python-version: "3.12"
       - run: pip install -r tools/requirements-daily.txt
       - run: python tools/pull_contributions.py
+      - name: Pull stats
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python tools/pull_stats.py
       - run: python tools/render_graph.py
+      - run: python tools/render_stats.py
+      - run: python tools/render_langs.py
+      - run: python tools/render_trophies.py
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "auto: refresh contribution graph [skip ci]"
-          file_pattern: "assets/contributions.json graph.svg"
+          commit_message: "auto: refresh profile data [skip ci]"
+          file_pattern: "assets/contributions.json assets/stats.json graph.svg stats.svg langs.svg trophies.svg"
