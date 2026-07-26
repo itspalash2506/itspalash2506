@@ -1,6 +1,6 @@
 <div align="center">
 
-<<<<<<< HEAD
+
 <img src="./banner.svg" width="880" alt="Palash Ghosh Dastidar"/>
 
 <br><br>
