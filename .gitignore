@@ -1,0 +1,2 @@
+cd C:\Projects\Github_Profile
+Add-Content -Encoding utf8 .gitignore "`nassets/me.*`nassets/photo-ready.png"
