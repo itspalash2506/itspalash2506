@@ -5,10 +5,8 @@
 
 <br><br>
 
-<h3><code>$ whoami --verbose</code></h3>
-=======
+
 <h3><code> palash@github ~ $whoami </code></h3>
->>>>>>> 80b9c937f85fdbfff0edd9416c4b739968cc5a3b
 
 <table>
   <tr>
@@ -19,7 +17,7 @@
 
 <br>
 
-<h3><code>$ ./id_card.sh &amp;&amp; gh stats</code></h3>
+<h3><code>$ ID Card &amp;&amp; gh stats</code></h3>
 
 <table>
   <tr>
@@ -45,7 +43,7 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/itspalash2506/itspalash2506/output/snake.svg" width="840" alt="Contribution snake"/>
+<img src="https://raw.githubusercontent.com/itspalash2506/itspalash2506/output/snake-dark.svg" width="840" alt="Contribution snake"/>
 
 <br><br>
 
