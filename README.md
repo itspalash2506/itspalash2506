@@ -1,10 +1,14 @@
 <div align="center">
 
+<<<<<<< HEAD
 <img src="./banner.svg" width="880" alt="Palash Ghosh Dastidar"/>
 
 <br><br>
 
 <h3><code>$ whoami --verbose</code></h3>
+=======
+<h3><code> palash@github ~ $whoami </code></h3>
+>>>>>>> 80b9c937f85fdbfff0edd9416c4b739968cc5a3b
 
 <table>
   <tr>
