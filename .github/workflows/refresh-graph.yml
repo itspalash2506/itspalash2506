@@ -29,4 +29,4 @@ jobs:
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "auto: refresh profile data [skip ci]"
-          file_pattern: "assets/contributions.json assets/stats.json graph.svg stats.svg langs.svg trophies.svg"
+          file_pattern: "assets/contributions.json assets/stats.json graph.svg graph-light.svg stats.svg stats-light.svg langs.svg langs-light.svg trophies.svg trophies-light.svg"

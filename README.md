@@ -1,12 +1,13 @@
 <div align="center">
 
-
-<img src="./banner.svg" width="880" alt="Palash Ghosh Dastidar"/>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg">
+  <img src="./banner.svg" width="880" alt="Palash Ghosh Dastidar"/>
+</picture>
 
 <br><br>
 
-
-<h3><code> palash@github ~ $whoami </code></h3>
+<h3><code>$ whoami --verbose</code></h3>
 
 <table>
   <tr>
@@ -17,15 +18,25 @@
 
 <br>
 
-<h3><code>$ ID Card &amp;&amp; gh stats</code></h3>
+<h3><code>$ ./id_card.sh &amp;&amp; gh stats</code></h3>
 
 <table>
   <tr>
     <td valign="middle" rowspan="2"><img src="./lanyard.svg" width="250" alt="ID badge"/></td>
-    <td valign="top"><img src="./stats.svg" width="440" alt="GitHub stats"/></td>
+    <td valign="top">
+      <picture>
+        <source media="(prefers-color-scheme: light)" srcset="./stats-light.svg">
+        <img src="./stats.svg" width="440" alt="GitHub stats"/>
+      </picture>
+    </td>
   </tr>
   <tr>
-    <td valign="top"><img src="./langs.svg" width="440" alt="Top languages"/></td>
+    <td valign="top">
+      <picture>
+        <source media="(prefers-color-scheme: light)" srcset="./langs-light.svg">
+        <img src="./langs.svg" width="440" alt="Top languages"/>
+      </picture>
+    </td>
   </tr>
 </table>
 
@@ -33,17 +44,26 @@
 
 <h3><code>$ gh trophies</code></h3>
 
-<img src="./trophies.svg" width="900" alt="Trophies"/>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="./trophies-light.svg">
+  <img src="./trophies.svg" width="900" alt="Trophies"/>
+</picture>
 
 <br><br>
 
 <h3><code>$ cat contributions.log</code></h3>
 
-<img src="./graph.svg" width="840" alt="Contribution graph"/>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="./graph-light.svg">
+  <img src="./graph.svg" width="840" alt="Contribution graph"/>
+</picture>
 
 <br>
 
-<img src="https://raw.githubusercontent.com/itspalash2506/itspalash2506/output/snake-dark.svg" width="840" alt="Contribution snake"/>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itspalash2506/itspalash2506/output/snake-light.svg">
+  <img src="https://raw.githubusercontent.com/itspalash2506/itspalash2506/output/snake-dark.svg" width="840" alt="Contribution snake"/>
+</picture>
 
 <br><br>
 
