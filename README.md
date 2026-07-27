@@ -69,9 +69,9 @@
 
 <h3><code>$ ./connect.sh</code></h3>
 
-<a href="mailto:palashghoshdastidar@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=39d3c3&labelColor=0d1117"/></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=palashghoshdastidar@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=39d3c3&labelColor=0d1117"/></a>
 <a href="https://github.com/itspalash2506"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=39d3c3&labelColor=0d1117"/></a>
-<a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=39d3c3&labelColor=0d1117"/></a>
+<a href="https://www.linkedin.com/in/palash-ghosh-285700287/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=39d3c3&labelColor=0d1117"/></a>
 
 <br><br>
 
