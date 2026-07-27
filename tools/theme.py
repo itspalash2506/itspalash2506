@@ -1,0 +1,11 @@
+DARK=dict(bg0="#0b0f17",bg1="#0d1117",bar="#161b22",accent="#39d3c3",value="#e6edf3",
+ muted="#8b949e",border="#222b35",track="#20323a",line="#1c2530",panel="#0e151d",
+ star="#dfe8ff",grid="#ffffff",gridop="0.02",
+ shades=["#39d3c3","#4db3ff","#5ad1a0","#8f9bf0","#3fb6ae","#c58bf0"],
+ tier={"C":"#5b7f7b","B":"#2f9f96","A":"#2bc0b4","S":"#39d3c3","SS":"#8bece2","SSS":"#c7f7f1"})
+LIGHT=dict(bg0="#ffffff",bg1="#f1f4f8",bar="#e8edf2",accent="#0e7c74",value="#1f2328",
+ muted="#57606a",border="#d0d7de",track="#d3e2e0",line="#dbe1e8",panel="#ffffff",
+ star="#9aabc0",grid="#1f2328",gridop="0.04",
+ shades=["#12908a","#2b7fd4","#2fa27a","#5b66c9","#2a8f88","#9a5fd0"],
+ tier={"C":"#8aa29f","B":"#3fa79d","A":"#2a9d93","S":"#128a80","SS":"#0e7c74","SSS":"#0a5f59"})
+THEMES=[("",DARK),("-light",LIGHT)]
