@@ -482,7 +482,8 @@
 </g>
 <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.936s" dur="0.35s" fill="freeze"/>
 <rect x="854" y="54" width="13" height="13" rx="3" fill="#12716c"/>
-<rect x="854" y="70" width="13" height="13" rx="3" fill="#12716c"/>
+<rect x="854" y="70" width="13" height="13" rx="3" fill="#39d3c3"/>
+<rect x="854" y="86" width="13" height="13" rx="3" fill="#161b22"/>
 </g>
 <text x="707" y="198" font-size="11" fill="#8b949e">Less</text>
 <rect x="747" y="187" width="12" height="12" rx="3" fill="#161b22"/>
@@ -491,5 +492,5 @@
 <rect x="795" y="187" width="12" height="12" rx="3" fill="#22b3a8"/>
 <rect x="811" y="187" width="12" height="12" rx="3" fill="#39d3c3"/>
 <text x="837" y="198" font-size="11" fill="#8b949e">More</text>
-<text x="22" y="198" font-size="12.5" fill="#e6edf3">53 contributions in the last year   •   Current streak: 2d   •   Longest: 3d   •   Most active: Tuesday</text>
+<text x="22" y="198" font-size="12.5" fill="#e6edf3">57 contributions in the last year   •   Current streak: 0d   •   Longest: 3d   •   Most active: Monday</text>
 </svg>
