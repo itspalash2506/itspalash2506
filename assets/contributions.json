@@ -2,45 +2,10 @@
   "user": "itspalash2506",
   "total": 61,
   "current_streak": 0,
-  "longest_streak": 6,
+  "longest_streak": 7,
   "busiest_day": "Monday",
-  "generated": "2026-08-01T07:28:56+00:00",
+  "generated": "2026-08-02T07:33:06+00:00",
   "days": [
-    {
-      "date": "2025-07-27",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-07-28",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-07-29",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-07-30",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-07-31",
-      "count": 1,
-      "level": 1
-    },
-    {
-      "date": "2025-08-01",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-08-02",
-      "count": 0,
-      "level": 0
-    },
     {
       "date": "2025-08-03",
       "count": 0,
@@ -1858,6 +1823,11 @@
     },
     {
       "date": "2026-08-01",
+      "count": 1,
+      "level": 1
+    },
+    {
+      "date": "2026-08-02",
       "count": 0,
       "level": 0
     }
