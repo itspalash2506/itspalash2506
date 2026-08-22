@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 300" font-family="ui-monospace,Menlo,Consolas,monospace">
-<defs><style>@keyframes ring{from{stroke-dashoffset:402.1}to{stroke-dashoffset:205.9}}@keyframes app{from{opacity:0;transform:translateX(6px)}to{opacity:1;transform:translateX(0)}}.ring{animation:ring 1.5s cubic-bezier(.4,0,.2,1) .2s both}.r0{transform-box:fill-box;animation:app .5s ease 0.50s both}.r1{transform-box:fill-box;animation:app .5s ease 0.68s both}.r2{transform-box:fill-box;animation:app .5s ease 0.86s both}.r3{transform-box:fill-box;animation:app .5s ease 1.04s both}</style><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#f1f4f8"/></linearGradient></defs>
+<defs><style>@keyframes ring{from{stroke-dashoffset:402.1}to{stroke-dashoffset:205.1}}@keyframes app{from{opacity:0;transform:translateX(6px)}to{opacity:1;transform:translateX(0)}}.ring{animation:ring 1.5s cubic-bezier(.4,0,.2,1) .2s both}.r0{transform-box:fill-box;animation:app .5s ease 0.50s both}.r1{transform-box:fill-box;animation:app .5s ease 0.68s both}.r2{transform-box:fill-box;animation:app .5s ease 0.86s both}.r3{transform-box:fill-box;animation:app .5s ease 1.04s both}</style><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#f1f4f8"/></linearGradient></defs>
 <rect x="1" y="1" width="438" height="298" rx="14" fill="url(#bg)" stroke="#d0d7de"/>
 <path d="M1 15 Q1 1 15 1 H425 Q439 1 439 15 V42 H1 Z" fill="#e8edf2"/>
 <circle cx="22" cy="21" r="5.5" fill="#ff5f56"/>
@@ -7,10 +7,10 @@
 <circle cx="62" cy="21" r="5.5" fill="#27c93f"/>
 <text x="220.0" y="26" fill="#57606a" font-size="13" text-anchor="middle">$ gh stats</text>
 <circle cx="104" cy="180" r="64" fill="none" stroke="#d3e2e0" stroke-width="10"/>
-<circle class="ring" cx="104" cy="180" r="64" fill="none" stroke="#0e7c74" stroke-width="10" stroke-linecap="round" stroke-dasharray="402.1" stroke-dashoffset="205.9" transform="rotate(-90 104 180)"/>
+<circle class="ring" cx="104" cy="180" r="64" fill="none" stroke="#0e7c74" stroke-width="10" stroke-linecap="round" stroke-dasharray="402.1" stroke-dashoffset="205.1" transform="rotate(-90 104 180)"/>
 <text x="104" y="177" fill="#1f2328" font-size="36" font-weight="bold" text-anchor="middle">B</text>
 <text x="104" y="202" fill="#57606a" font-size="12" text-anchor="middle">rank</text>
-<g class="r0"><text x="200" y="98" fill="#57606a" font-size="14">Total contributions</text><text x="416" y="98" fill="#0e7c74" font-size="17" font-weight="bold" text-anchor="end">80</text><line x1="200" y1="111" x2="416" y2="111" stroke="#dbe1e8"/></g>
+<g class="r0"><text x="200" y="98" fill="#57606a" font-size="14">Total contributions</text><text x="416" y="98" fill="#0e7c74" font-size="17" font-weight="bold" text-anchor="end">81</text><line x1="200" y1="111" x2="416" y2="111" stroke="#dbe1e8"/></g>
 <g class="r1"><text x="200" y="142" fill="#57606a" font-size="14">Public repos</text><text x="416" y="142" fill="#0e7c74" font-size="17" font-weight="bold" text-anchor="end">23</text><line x1="200" y1="155" x2="416" y2="155" stroke="#dbe1e8"/></g>
 <g class="r2"><text x="200" y="186" fill="#57606a" font-size="14">Stars earned</text><text x="416" y="186" fill="#0e7c74" font-size="17" font-weight="bold" text-anchor="end">1</text><line x1="200" y1="199" x2="416" y2="199" stroke="#dbe1e8"/></g>
 <g class="r3"><text x="200" y="230" fill="#57606a" font-size="14">Followers</text><text x="416" y="230" fill="#0e7c74" font-size="17" font-weight="bold" text-anchor="end">1</text><line x1="200" y1="243" x2="416" y2="243" stroke="#dbe1e8"/></g>
