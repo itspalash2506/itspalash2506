@@ -339,8 +339,8 @@
 <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.648s" dur="0.35s" fill="freeze"/>
 <rect x="598" y="54" width="13" height="13" rx="3" fill="#ebedf0"/>
 <rect x="598" y="70" width="13" height="13" rx="3" fill="#ebedf0"/>
-<rect x="598" y="86" width="13" height="13" rx="3" fill="#a5e8e1"/>
-<rect x="598" y="102" width="13" height="13" rx="3" fill="#5ccabd"/>
+<rect x="598" y="86" width="13" height="13" rx="3" fill="#ebedf0"/>
+<rect x="598" y="102" width="13" height="13" rx="3" fill="#ebedf0"/>
 <rect x="598" y="118" width="13" height="13" rx="3" fill="#ebedf0"/>
 <rect x="598" y="134" width="13" height="13" rx="3" fill="#ebedf0"/>
 <rect x="598" y="150" width="13" height="13" rx="3" fill="#ebedf0"/>
@@ -410,7 +410,7 @@
 </g>
 <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.792s" dur="0.35s" fill="freeze"/>
 <rect x="726" y="54" width="13" height="13" rx="3" fill="#a5e8e1"/>
-<rect x="726" y="70" width="13" height="13" rx="3" fill="#12716c"/>
+<rect x="726" y="70" width="13" height="13" rx="3" fill="#a5e8e1"/>
 <rect x="726" y="86" width="13" height="13" rx="3" fill="#a5e8e1"/>
 <rect x="726" y="102" width="13" height="13" rx="3" fill="#a5e8e1"/>
 <rect x="726" y="118" width="13" height="13" rx="3" fill="#a5e8e1"/>
@@ -486,7 +486,8 @@
 <rect x="854" y="86" width="13" height="13" rx="3" fill="#a5e8e1"/>
 <rect x="854" y="102" width="13" height="13" rx="3" fill="#a5e8e1"/>
 <rect x="854" y="118" width="13" height="13" rx="3" fill="#a5e8e1"/>
-<rect x="854" y="134" width="13" height="13" rx="3" fill="#ebedf0"/>
+<rect x="854" y="134" width="13" height="13" rx="3" fill="#a5e8e1"/>
+<rect x="854" y="150" width="13" height="13" rx="3" fill="#ebedf0"/>
 </g>
 <text x="707" y="198" font-size="11" fill="#57606a">Less</text>
 <rect x="747" y="187" width="12" height="12" rx="3" fill="#ebedf0"/>
@@ -495,5 +496,5 @@
 <rect x="795" y="187" width="12" height="12" rx="3" fill="#2bb6ac"/>
 <rect x="811" y="187" width="12" height="12" rx="3" fill="#12716c"/>
 <text x="837" y="198" font-size="11" fill="#57606a">More</text>
-<text x="22" y="198" font-size="12.5" fill="#1f2328">149 contributions in the last year   •   Current streak: 0d   •   Longest: 96d   •   Most active: Monday</text>
+<text x="22" y="198" font-size="12.5" fill="#1f2328">139 contributions in the last year   •   Current streak: 0d   •   Longest: 97d   •   Most active: Tuesday</text>
 </svg>

@@ -2,37 +2,37 @@
   "user": "itspalash2506",
   "name": "Palash Ghosh",
   "followers": 1,
-  "public_repos": 23,
+  "public_repos": 22,
   "stars": 1,
   "forks": 0,
-  "contributions": 149,
+  "contributions": 139,
   "rank": "B+",
-  "rank_pct": 0.595,
+  "rank_pct": 0.575,
   "languages": [
     [
       "Python",
-      57.3
+      57.9
     ],
     [
       "JavaScript",
-      31.6
-    ],
-    [
-      "CSS",
-      5.4
+      27.8
     ],
     [
       "HTML",
-      5.3
+      7.0
+    ],
+    [
+      "CSS",
+      6.7
     ],
     [
       "Prolog",
-      0.2
+      0.3
     ],
     [
       "Other",
-      0.2
+      0.3
     ]
   ],
-  "generated": "2026-10-30T11:13:32+00:00"
+  "generated": "2026-10-31T10:45:56+00:00"
 }
